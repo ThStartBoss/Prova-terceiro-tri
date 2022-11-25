@@ -1,0 +1,22 @@
+body{
+    background-color: #6DB1F5;
+}
+
+.Container1{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 250px;
+    background-color: #69CDF5;
+    border-radius: 10px;
+}
+
+.segundacolunan{
+    display: flex;
+    margin-right: 30px;
+}
+
+.primeira.coluna{
+    margin-left: 10%;
+    padding: 10%;
+}
